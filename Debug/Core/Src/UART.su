@@ -1,0 +1,5 @@
+UART.c:11:6:uart2_init	4	static
+UART.c:39:5:uart2_write	16	static
+UART.c:47:5:uart2_read	4	static
+stdio.h:212:5:fgetc	24	static
+stdio.h:214:5:fputc	16	static
