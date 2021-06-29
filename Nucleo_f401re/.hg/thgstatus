@@ -1,0 +1,8 @@
+m
+m.metadata
+m.metadata/.plugins/org.eclipse.cdt.make.core
+mCore/Src
+mDebug
+mDebug/Core/Src
+mDebug/Core/Startup
+mDebug/Drivers/STM32F4xx_HAL_Driver/Src
